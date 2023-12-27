@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title   = "Hello Friend NG"
+baseURL = "/"
+title   = "Vinay Varma's Blog"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -215,7 +215,7 @@ disableHugoGeneratorInject = false
   #
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/hack_n_code"
 
   [[params.social]]
     name = "email"
@@ -223,11 +223,11 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/hackncode"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/vinay-varma"
 
   [[params.social]]
     name = "stackoverflow"
@@ -252,6 +252,6 @@ disableHugoGeneratorInject = false
     name       = "About"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    identifier = "blog"
+    name       = "Blog"
+    url        = "https://blog.hackncode.com/"
